@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="muted_black">#666666</color>
+
+
+    <color name="muted_green">#2ecc71</color>
+    <color name="muted_green_dark">#27ae60</color>
+
+    <color name="muted_yello">#f1c40f</color>
+
+    <color name="muted_orange">#f39c12</color>
+    <color name="muted_orange_dark">#e67e22</color>
+
+    <color name="muted_brown">#d35400</color>
+
+    <color name="muted_bluegreen">#1abc9c</color>
+    <color name="muted_bluegreen_dark">#16a085</color>
+
+
+    <color name="muted_blue">#3498db</color>
+    <color name="muted_blue_dark">#2980b9</color>
+
+
+    <color name="client_colour">#00C9CB</color>
+    <color name="client_colour_dark">#ff005f61</color>
+
+    <color name="text_colour_in_list">#ffffff</color>
+    <color name="action_bar_text_colour">#ffffff</color>
+
+
+
+    <color name="seafoam">#ffc6f9e5</color>
+    <color name="chartreuse">#ffb6e9b5</color>
+    <color name="emerald">#ffa6d9b5</color>
+    <color name="bluegrass">#ff96c9b5</color>
+    <color name="turquoise">#ff86b9b5</color>
+    <color name="slate">#ff76a9b5</color>
+
+
+
+
+
+</resources>
