@@ -1,7 +1,9 @@
-package comspinno.samirlistdesigns;
+package comspinno.samirlistdesigns.listitems;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import comspinno.samirlistdesigns.R;
 
 public class MainActivity extends Activity {
 
